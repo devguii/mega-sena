@@ -16,11 +16,6 @@ export default function megaSena() {
     <div>
       <h1>Mega-Sena</h1>
       <Numero numero={num} />
-      <Numero numero={num} />
-      <Numero numero={num} />
-      <Numero numero={num} />
-      <Numero numero={num} />
-      <Numero numero={num} />
       <button onClick={sortear}>Sortear</button>
     </div>
   )
